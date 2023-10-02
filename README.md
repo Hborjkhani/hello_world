@@ -1,2 +1,2 @@
 # hello_world
-WE are testing the branch
+We are testing the branch
